@@ -1,0 +1,7 @@
+*.log
+*.ps
+*.tmp
+# Archivos temporales del sistema operativo
+.DS_Store
+*~
+*.swp
