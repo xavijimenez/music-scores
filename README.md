@@ -1,21 +1,38 @@
-# Portafolio de Partituras - Xavier Jiménez Albán
+# Music Scores & Compositions 🎼
 
-Bienvenido a mi repositorio personal de transcripciones y arreglos musicales. Este proyecto utiliza **GNU LilyPond** para generar partituras de alta calidad tipográfica mediante código.
+Welcome to the personal archive of **Xavier Jiménez-Albán**. This repository serves as a digital library where I maintain high-quality engravings of classical masterpieces as well as my **original compositions**.
 
-## 📂 Contenido del Repositorio
+## 🚀 About this Project
 
-Aquí encontrarás transcripciones de música académica y arreglos propios, organizados por compositor. Cada carpeta contiene:
-* 📄 **Código fuente (.ly):** El archivo editable de LilyPond.
-* 👀 **Partitura (.pdf):** Visualización lista para leer o imprimir.
-* 🎹 **Audio (.midi):** Referencia auditiva de la transcripción.
+All scores in this repository are engraved using **GNU LilyPond**, following a "music as code" philosophy to ensure precision, version control, and high-quality typographical output.
 
-### Obras destacadas
-* **J.S. Bach:** Suite BWV 1067 (Si menor).
+You will find content for various instruments, including:
+* **Classical & Electric Guitar** (Fingerstyle, Classical, Contemporary)
+* **Piano**
+* And other solo instruments.
 
-## 🛠️ Herramientas utilizadas
-* **GNU LilyPond:** Para la notación musical.
-* **Frescobaldi / VS Code:** Editores de código.
-* **Git & GitHub:** Para el control de versiones y publicación.
+## 📂 Directory Structure
 
----
-*Este portafolio está en constante actualización. Si tienes sugerencias o comentarios, no dudes en contactarme.*
+The repository is organized taxonomically to facilitate navigation:
+
+`instrument / composer / work`
+
+Example:
+```text
+scores/
+├── guitar/
+│   ├── bach-js/              # J.S. Bach (Baroque)
+│   ├── tarrega/              # Francisco Tárrega (Romantic)
+│   └── jimenez-alban-xavier/ # My Original Compositions
+└── piano/
+    └── satie/
+```
+🛠 Tools Used
+
+    GNU LilyPond: For text-based music notation.
+
+    Frescobaldi / VS Code: For editing source files (.ly).
+
+    Git: For version control.
+
+Maintained by Xavier Jiménez-Albán
