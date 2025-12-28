@@ -29,10 +29,10 @@ scores/
 ```
 🛠 Tools Used
 
-    GNU LilyPond: For text-based music notation.
+* GNU LilyPond: For text-based music notation.
 
-    Frescobaldi / VS Code: For editing source files (.ly).
+* Frescobaldi / VS Code: For editing source files (.ly).
 
-    Git: For version control.
+* Git: For version control.
 
 Maintained by Xavier Jiménez-Albán
